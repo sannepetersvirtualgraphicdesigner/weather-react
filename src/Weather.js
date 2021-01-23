@@ -17,7 +17,7 @@ export default function Weather(props) {
   return (
     <Loader
       type="ThreeDots"
-      color="#FFFFFF"
+      color="orange"
       height={100}
       width={100}
       timeout={3000} //3 secs
